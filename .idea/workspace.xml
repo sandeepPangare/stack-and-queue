@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d629b0b-522a-42ed-9ed4-9b177d05f8ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/StackRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/QueueRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/QueueRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/QueueRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UC1_Insert_Element_In_Stack" />
+        <entry key="$PROJECT_DIR$" value="UC2_Peak_And_Pop_From_The_Stack" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
