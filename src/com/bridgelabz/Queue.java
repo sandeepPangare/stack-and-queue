@@ -5,6 +5,9 @@ public class Queue<T>{
     public void enqueue(T data) {
         linkedList.add(data);
     }
+    public void dequeue(T data) {
+        linkedList.deleteAtStart();
+    }
     public void print(){
         linkedList.print();
     }
